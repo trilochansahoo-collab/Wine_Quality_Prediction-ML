@@ -90,7 +90,7 @@ Wine-Quality-Prediction/
 └── README.md
 🚀 How to Run
 # Clone the repository
-
+https://github.com/trilochansahoo-collab/Wine_Quality_Prediction-ML
 
 # Install dependencies
 pip install -r requirements.txt
