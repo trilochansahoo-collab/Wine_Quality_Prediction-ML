@@ -81,12 +81,16 @@ Jupyter Notebook
 
 # 📂 Project Structure
 Wine-Quality-Prediction/
-│
-├── dataset.csv
-├── wine_quality_prediction.ipynb
-├── requirements.txt
+└── app.py
+└── final_alcohol.csv
+└── model.pkl
+└── rf_model.pkl
+└── wineCheck.ipynb
+└── requirements.txt
 └── README.md
 🚀 How to Run
+# Clone the repository
+
 
 # Install dependencies
 pip install -r requirements.txt
