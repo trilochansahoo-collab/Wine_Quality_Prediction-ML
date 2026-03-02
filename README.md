@@ -87,8 +87,6 @@ Wine-Quality-Prediction/
 ├── requirements.txt
 └── README.md
 🚀 How to Run
-# Clone the repository
-git clone https://github.com/your-username/wine-quality-prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
